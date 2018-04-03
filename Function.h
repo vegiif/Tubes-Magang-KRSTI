@@ -11,7 +11,6 @@
 class Function
 {
   public:
-    void OnOffDelay (string pilihan);
     void on ();
     void off ();
     void delay (string pilihan);
